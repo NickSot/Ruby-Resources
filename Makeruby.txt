@@ -1,0 +1,4 @@
+
+https://guides.rubyonrails.org/getting_started.html
+https://lukaszielinski.de/blog/posts/2013/07/04/the-rsa-algorithm-in-ruby/
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-passenger-and-nginx-on-ubuntu-14-04
